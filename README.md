@@ -1,8 +1,8 @@
 # Sort
 sorting techniques
 <br>
-1.Bubble Sort
+1.Bubble Sort(main)
 <br>
-2.Insertion Sort
+2.Insertion Sort(main)
 <br>
-3.Selection Sort
+3.Selection Sort(Vaibhavi)
