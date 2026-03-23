@@ -4,3 +4,5 @@ sorting techniques
 1.Bubble Sort
 <br>
 2.Insertion Sort
+<br>
+3.Selection Sort
